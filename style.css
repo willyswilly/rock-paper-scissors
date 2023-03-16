@@ -1,0 +1,15 @@
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  margin: 5px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+#results {
+  margin-top: 20px;
+  font-size: 18px;
+}
